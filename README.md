@@ -1,6 +1,5 @@
 ## Implementation Guide
 
-
 ## 1. Feature Extraction Methods
 
 1. **Deep Scattering Network**:
