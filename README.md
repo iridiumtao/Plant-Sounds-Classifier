@@ -36,7 +36,7 @@
 
 ### A. SVM Classifier (Acoustic Box Recordings)
 1. **Data Preparation**:
-   - **Input Format**: Each sample should be preprocessed as described in section 2
+   - **Input Format**: Each sample should be preprocessed
    - **Sample Structure**: For each plant and condition, create a table with:
      - Row: One processed sound event
      - Columns: Extracted features + metadata (plant ID, species, condition)
